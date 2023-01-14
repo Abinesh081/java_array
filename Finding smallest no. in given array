@@ -19,3 +19,6 @@ int small = Integer.MAX_VALUE; // int small compare to array integer maximum val
 		System.out.println(small); 
 }
 }
+
+OUTPUT :
+25
